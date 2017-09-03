@@ -3,7 +3,11 @@
 Hi Guys.
 
 
-updated.
 
+<<<<<<< HEAD
 updated again.
 
+=======
+
+again.
+>>>>>>> branch1
